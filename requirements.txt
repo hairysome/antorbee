@@ -1,0 +1,4 @@
+torch
+imageio
+bentoml==0.8.3
+torchvision

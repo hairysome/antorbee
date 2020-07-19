@@ -1,0 +1,2 @@
+include AntOrBeeClassifier/bentoml.yml
+graft AntOrBeeClassifier/artifacts
