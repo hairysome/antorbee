@@ -3,7 +3,7 @@ name: Continuous Integration and Delivery
 on: [push]
 
 env:
-  IMAGE: docker.pkg.github.com/$GITHUB_REPOSITORY/a_or_b_api
+  IMAGE: docker.pkg.github.com/$GITHUB_REPOSITORY/my-a-or-b-api
 
 jobs:
 
