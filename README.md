@@ -1,4 +1,4 @@
-# Generated BentoService bundle - AntOrBeeClassifier:20200725233152_9E2B3F
+# Generated BentoService bundle - AntOrBeeClassifier:20200726000021_3117ED
 
 This is a ML Service bundle created with BentoML, it is not recommended to edit
 code or files contained in this directory. Instead, edit the code that uses BentoML
