@@ -1,9 +1,9 @@
 version: 0.8.3
 kind: BentoService
 metadata:
-  created_at: 2020-07-16 01:21:35.137230
+  created_at: 2020-07-25 09:17:38.283120
   service_name: AntOrBeeClassifier
-  service_version: '20200716092128_471476'
+  service_version: 20200725171732_A16AF0
   module_name: classificationService
   module_file: classificationService.py
 env:

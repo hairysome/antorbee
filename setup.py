@@ -28,9 +28,9 @@ except Exception:
 
 setuptools.setup(
     name='AntOrBeeClassifier',
-    version='20200716092128_471476',
+    version='20200725171732_A16AF0',
     description="BentoML generated model module",
-    long_description="""# Generated BentoService bundle - AntOrBeeClassifier:20200716092128_471476
+    long_description="""# Generated BentoService bundle - AntOrBeeClassifier:20200725171732_A16AF0
 
 This is a ML Service bundle created with BentoML, it is not recommended to edit
 code or files contained in this directory. Instead, edit the code that uses BentoML
